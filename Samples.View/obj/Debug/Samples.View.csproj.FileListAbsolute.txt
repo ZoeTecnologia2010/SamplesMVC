@@ -1,0 +1,10 @@
+C:\Users\zoete\source\repos\Samples\Samples.View\bin\Debug\Samples.View.exe.config
+C:\Users\zoete\source\repos\Samples\Samples.View\bin\Debug\Samples.View.exe
+C:\Users\zoete\source\repos\Samples\Samples.View\bin\Debug\Samples.View.pdb
+C:\Users\zoete\source\repos\Samples\Samples.View\obj\Debug\Samples.View.csprojAssemblyReference.cache
+C:\Users\zoete\source\repos\Samples\Samples.View\obj\Debug\Samples.View.Properties.Resources.resources
+C:\Users\zoete\source\repos\Samples\Samples.View\obj\Debug\Samples.View.csproj.GenerateResource.cache
+C:\Users\zoete\source\repos\Samples\Samples.View\obj\Debug\Samples.View.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\Samples\Samples.View\obj\Debug\Samples.View.exe
+C:\Users\zoete\source\repos\Samples\Samples.View\obj\Debug\Samples.View.pdb
+C:\Users\zoete\source\repos\Samples\Samples.View\obj\Debug\Samples.View.FormLogin.resources
