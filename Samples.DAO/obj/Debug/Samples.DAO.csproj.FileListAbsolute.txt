@@ -1,0 +1,10 @@
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\bin\Debug\Samples.DAO.dll
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\bin\Debug\Samples.DAO.pdb
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\bin\Debug\Samples.Entities.dll
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\bin\Debug\Samples.Entities.pdb
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\obj\Debug\Samples.DAO.csprojAssemblyReference.cache
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\obj\Debug\Samples.DAO.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\obj\Debug\Samples.DAO.csproj.CopyComplete
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\obj\Debug\Samples.DAO.dll
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\obj\Debug\Samples.DAO.pdb
+C:\Users\zoete\source\repos\samplesmvc\Samples.DAO\bin\Debug\Samples.DAO.dll.config

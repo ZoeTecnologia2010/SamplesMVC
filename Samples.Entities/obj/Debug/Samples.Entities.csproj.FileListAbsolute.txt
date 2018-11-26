@@ -1,0 +1,6 @@
+C:\Users\zoete\source\repos\samplesmvc\Samples.Entities\bin\Debug\Samples.Entities.dll
+C:\Users\zoete\source\repos\samplesmvc\Samples.Entities\bin\Debug\Samples.Entities.pdb
+C:\Users\zoete\source\repos\samplesmvc\Samples.Entities\obj\Debug\Samples.Entities.csprojAssemblyReference.cache
+C:\Users\zoete\source\repos\samplesmvc\Samples.Entities\obj\Debug\Samples.Entities.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\samplesmvc\Samples.Entities\obj\Debug\Samples.Entities.dll
+C:\Users\zoete\source\repos\samplesmvc\Samples.Entities\obj\Debug\Samples.Entities.pdb
